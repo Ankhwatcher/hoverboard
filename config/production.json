@@ -1,15 +1,15 @@
 {
   "basepath": "/",
-  "url": "https://hoverboard-master.firebaseapp.com/",
-  "analytics": "UA-43643469-9",
+  "url": "https://dublin-devfest-2018.firebaseapp.com/",
+  "analytics": "UA-126277345-1",
   "prefix": "/",
   "firebase": {
-    "apiKey": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
-    "authDomain": "hoverboard-master.firebaseapp.com",
-    "databaseURL": "https://hoverboard-master.firebaseio.com",
-    "projectId": "hoverboard-master",
-    "storageBucket": "hoverboard-master.appspot.com",
-    "messagingSenderId": "516409946568"
+    "apiKey": "AIzaSyDYokzrwOZR2u9Wr5ZUZGsPsY1K4Pyblig",
+    "authDomain": "dublin-devfest-2018.firebaseapp.com",
+    "databaseURL": "https://dublin-devfest-2018.firebaseio.com",
+    "projectId": "dublin-devfest-2018",
+    "storageBucket": "dublin-devfest-2018.appspot.com",
+    "messagingSenderId": "952440468405"
   },
   "googleMapApiKey": "AIzaSyDWy6O98n-ueoVaYPWRPve23vjm3JP08gw"
 }
